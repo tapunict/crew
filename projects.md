@@ -28,7 +28,7 @@
 |Emanuele Greco                       |https://github.com/yuk000/tap_entity                               |
 |Giovanni Borgh                       |https://github.com/AlawysDelta/emotedet                            |
 |Federico Canzonieri                  |https://github.com/federicocanzonieri/amazonAnalyzer               |
-|Alessio Angelo Liotta                |https://github.com/LightDestory/CryptoSight                        |
+|Alessio Tudisco                      |https://github.com/LightDestory/CryptoSight                        |
 |Cristofero Catania                   |https://github.com/cri98-dev/tap_project                           |
 |Giuliano Lazzara                     |https://github.com/Julieeno/Finnhub--Stock-prediction-and-Analysis |
 |Davide Casano                        |https://github.com/davide-cas/irecognize/                          |
