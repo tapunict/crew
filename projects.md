@@ -33,6 +33,23 @@
 |Giuliano Lazzara                     |https://github.com/Julieeno/Finnhub--Stock-prediction-and-Analysis |
 |Davide Casano                        |https://github.com/davide-cas/irecognize/                          |
 |Marco Ardizzone                      |https://github.com/marco-ardi/Data-Streaming-Object-Interaction    |
+|Mario Benissimo+Rosario Cannavo      |https://github.com/Mantellinas/WeNet                               |
+|Emanuele Cannizzo                    |https://github.com/manuele09/Amazon-Analyzer                       |
+|	Alessio	Di Natale	|	https://github.com/0xAlexDev/GeolocationPipelineProject	|
+|	Samuele	Gallina	|	https://github.com/Gallo00/Grammar-Mistakes-Finder	|
+|	Ignacio	Gulino	|	https://github.com/IgnazioGul/Cyberbullism-data-pipeline	|
+|	Giovanni	Imbesi	|	https://github.com/Giovannimbesi25/Reddit-Post-Classificator	|
+|	Simone	Laudani	|	https://github.com/simone-05/tap_project	|
+|	Salvatore	Luca + Giulia	Meo	 |	https://github.com/sal-versij/Slotherizer	|
+|	Edoardo Alessandro	Scarpaci	|	https://github.com/edoardoscarpaci/ProgettoTAP 	|
+|	Lorenzo	Modica + Giuseppe	Napoli	|	https://github.com/tapunict/warplatforms	|
+|	Rosario	Amantia + Gianluca 	Di Franco	|	https://github.com/rosarioamantia/insTAP	|
+|	Riccardo	Raciti	|	https://github.com/Raciti/TAP-Project	|
+|	Alessandro 	Resta	|	https://github.com/Alessandrus00/TMDA	|
+|	Antonio	Scardace	|	https://github.com/ElephanZ/System-Stats-By-Keylogger	|
+|	Rosario	Scuderi	|	https://github.com/ScuderiRosario/CryptoMundo	|
+|	Massimo	Spata	+ Salvatore	Privitera	|	https://github.com/SpataMassimo/WebMeteo.git	|
+|	Roberto	Marchese	|	https://github.com/RobyMark/ProgettoTapRM	|
 
 
 
