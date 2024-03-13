@@ -51,7 +51,7 @@
 |	Massimo	Spata	+ Salvatore	Privitera	|	https://github.com/SpataMassimo/WebMeteo.git	|
 |	Roberto	Marchese	|	https://github.com/RobyMark/ProgettoTapRM	|
 | Sergio Mancini | https://github.com/ManciSee/PARL |
-
+| Carmelo Marco Fuccio | https://github.com/pyMelo/TapTwitch|
 
 
 
