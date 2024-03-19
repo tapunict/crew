@@ -1,5 +1,6 @@
 |Student                              | Github                                                            |
-|--------                             | ------                                                            |
+|--------                             | ------  
+|Giuseppe Bonanno                     |https://github.com/GiuseppeBnn/F1_tap_project                     |
 |Salvo	Asero	                      | https://github.com/Guberlo/Reddit-Analyzer                        |
 |Simone	Scionti + Sergio	Maccarone |	https://github.com/StudiumAnalytics/Project                       |
 |Giorgio Lo Cicero + Davide	Carnemolla|	https://github.com/josura/AISuggestU                              |
@@ -51,6 +52,7 @@
 |	Massimo	Spata	+ Salvatore	Privitera	|	https://github.com/SpataMassimo/WebMeteo.git	|
 |	Roberto	Marchese	|	https://github.com/RobyMark/ProgettoTapRM	|
 | Sergio Mancini | https://github.com/ManciSee/PARL |
+| Orazio Sciuto | https://github.com/orazios98/youtube_sentiment_analysis |
 | Carmelo Marco Fuccio | https://github.com/pyMelo/TapTwitch|
 
 
